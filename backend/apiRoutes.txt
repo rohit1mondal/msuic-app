@@ -1,0 +1,7 @@
+songs: add - http://localhost:4000/api/song/add
+       list - http://localhost:4000/api/song/list
+       remove - http://localhost:4000/api/song/remove
+
+album: add - http://localhost:4000/api/album/add
+       list - http://localhost:4000/api/album/list
+       remove - http://localhost:4000/api/album/remove
